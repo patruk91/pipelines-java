@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/lichwala/pipelinestutorial/_apis/build/status/patruk91.pipelines-java?branchName=master)](https://dev.azure.com/lichwala/pipelinestutorial/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&url=https://dev.azure.com/lichwala/pipelinestutorial/_apis/build/status/patruk91.pipelines-java?branchName=master)](https://dev.azure.com/lichwala/pipelinestutorial/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
