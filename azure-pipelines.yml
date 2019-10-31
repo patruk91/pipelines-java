@@ -13,10 +13,10 @@ strategy:
       jdk_version: "1.10"
     mac:
       imageName: "macos-10.13"
-            jdk_version: "1.11"
+      jdk_version: "1.11"
     windows:
       imageName: "vs2017-win2016"
-            jdk_version: "1.8"
+      jdk_version: "1.8"
   maxParallel: 3
 
 pool:
